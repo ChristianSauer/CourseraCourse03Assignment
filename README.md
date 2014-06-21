@@ -12,7 +12,7 @@ The codebook can be found in this repository.
 
 ###How to create the tidy dataset###
 
-To (re)create the tidy dataset, please run the run_analysis.R file from this repository. It will perform the following steps:
+To (re)create the tidy dataset, please run the run_analysis.R file from this repository. (Simply execute all code in the file) It will perform the following steps:
 
 1.  Creating a data directory in the current working directory (Note: if you want to download the data in a specific folder, please uncomment the setwd() function at the top of the file and enter the desired path)
 2.  Downloading the data from the Coursera downloading link: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
